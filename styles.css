@@ -82,7 +82,7 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
     font-size: 1rem; /* تم تصغير الخط هنا */
-    padding: 2px 2px;
+    padding: 1px 1px;
     transition: background-color 0.3s ease, transform 0.3s ease;
     border-radius: 5px;
 }
